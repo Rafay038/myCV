@@ -441,7 +441,7 @@ footer {
 }
 
 .certificate-note {
-  color: #60a5fa;
+  color: #60a5fa !important;
   font-style: normal;
   font-weight: 700;
   margin-top: 16px;
